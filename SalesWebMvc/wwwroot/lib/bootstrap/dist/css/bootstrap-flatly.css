@@ -6905,3 +6905,7 @@ a.list-group-item-danger.active:focus {
 .popover {
   color: #2c3e50;
 }
+
+.navbar-nav > li {
+    margin-right: 30px;
+}
